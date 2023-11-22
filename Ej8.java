@@ -4,7 +4,7 @@ public class Ej8 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Solicitar al usuario que ingrese una frase
+        // Solicitar al usuario que introduzca una frase
         System.out.print("Introduce una frase: ");
         String frase = scanner.nextLine();
 
