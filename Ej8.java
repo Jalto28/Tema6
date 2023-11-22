@@ -5,7 +5,7 @@ public class Ej8 {
         Scanner scanner = new Scanner(System.in);
 
         // Solicitar al usuario que ingrese una frase
-        System.out.print("Ingresa una frase: ");
+        System.out.print("Introduce una frase: ");
         String frase = scanner.nextLine();
 
         // Llamar al método para mostrar cada palabra y su longitud en dos columnas
