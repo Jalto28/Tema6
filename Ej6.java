@@ -4,11 +4,11 @@ public class Ej6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Solicitar al usuario que ingrese una frase
+        // Solicitar al usuario que introduzca una frase
         System.out.print("Introduce una frase: ");
         String frase = scanner.nextLine();
 
-        // Solicitar al usuario que ingrese un factor de multiplicación
+        // Solicitar al usuario que introduzca un factor de multiplicación
         System.out.print("Introduce un factor de multiplicación: ");
         int factorMultiplicacion = scanner.nextInt();
 
