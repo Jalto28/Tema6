@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Ej14 {
     public static void main(String[] args) {
         // Crear un array de 10 elementos de tipo char
         char[] array = new char[10];
