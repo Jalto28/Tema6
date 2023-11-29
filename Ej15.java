@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Ej15 {
     public static void main(String[] args) {
         // Crear un array de 20 elementos numéricos
         int[] array = new int[20];
