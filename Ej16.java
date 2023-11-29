@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Main {
+public class Ej16 {
     public static void main(String[] args) {
         // Crear un array de 30 elementos de tipo double
         double[] notas = new double[30];
